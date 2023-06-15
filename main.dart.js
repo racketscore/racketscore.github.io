@@ -79896,7 +79896,7 @@ $1(a){return new A.my(null)},
 $S:165}
 A.I5.prototype={
 I(a){var s=null
-return A.nv(A.bl("List is empty",s,s,s,A.bZ(s,s,B.HQ,s,s,s,s,s,s,s,s,16,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,s)}}
+return A.nv(A.bl("",s,s,s,A.bZ(s,s,B.HQ,s,s,s,s,s,s,s,s,16,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,s)}}
 A.nA.prototype={
 ak(){return new A.P6(A.pg(null),A.pg(null),A.pg(null),B.i)},
 aht(a,b,c,d){return this.c.$4(a,b,c,d)}}
@@ -85997,7 +85997,7 @@ B.Pt=new A.e4("Olympics Final",null,B.NU,null,null,null,null,null,null)
 B.Pu=new A.e4("Open-source libraries",null,null,null,null,null,null,null,null)
 B.l8=new A.D(4281545523)
 B.jJ=new A.q(!0,B.l8,null,null,null,null,22,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Pv=new A.e4("3. Share the realtime result with anyone!",null,B.jJ,null,null,null,null,null,null)
+B.Pv=new A.e4("3. Share the real-time result!",null,B.jJ,null,null,null,null,null,null)
 B.Pw=new A.e4("2. Create a match",null,B.jJ,null,null,null,null,null,null)
 B.Py=new A.e4("Sign in",null,null,null,null,null,null,null,null)
 B.Nt=new A.q(!0,B.j7,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.jF,null,null,null,null,null,null,null,null)
